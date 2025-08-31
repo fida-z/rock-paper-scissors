@@ -36,7 +36,7 @@ h2 {
     background-color: #561e7b;
 }
 .title-text{
-    font-size: 24px;
+    font-size: 32px;
     margin-right: 1vh;
     margin-left: 1vh;
 
@@ -151,7 +151,7 @@ button {
     
     padding: 4vh;
     text-align: center;
-    font-size: 24px;
+    font-size: 28px;
 
     background-color: #bb1750;
 }
